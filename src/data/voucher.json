@@ -1,0 +1,29 @@
+[
+    {
+        "code" : "20OFFPROMO",
+        "type" : "code",
+        "qty" : null,
+        "amount" : 100,
+        "category" : null,
+        "discount" : 20,
+        "discount_percent" : null
+    },
+    {
+        "code" : null,
+        "type" : "category",
+        "qty" : "10",
+        "category" : "Drinks",
+        "amount" : null,
+        "discount" : null,
+        "discount_percent" : 10
+    },
+    {
+        "code" : "",
+        "type" : "category",
+        "qty" : null,
+        "amount" : 50,
+        "category" : "Baking/Cooking Ingredients",
+        "discount" : 5,
+        "discount_percent" : null
+    }
+]
